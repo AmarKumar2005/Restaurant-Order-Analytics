@@ -1,0 +1,11 @@
+OrderID,Timestamp,Dish,Quantity,Price,CustomerType,Total,MealTime
+1001,2025-07-30 08:30:00,Masala Dosa,2,60,Walk-in,120,Breakfast
+1002,2025-07-30 13:15:00,Paneer Butter Masala,1,180,Regular,180,Lunch
+1003,2025-07-30 19:00:00,Veg Biryani,3,120,Walk-in,360,Dinner
+1004,2025-07-30 16:30:00,Samosa,4,15,Regular,60,Snacks
+1005,2025-07-30 09:15:00,Idli,3,20,Walk-in,60,Breakfast
+1006,2025-07-29 20:00:00,Butter Naan,5,25,Regular,125,Dinner
+1007,2025-07-29 12:00:00,Chole Bhature,2,100,Regular,200,Lunch
+1008,2025-07-29 07:45:00,Poha,2,40,Walk-in,80,Breakfast
+1009,2025-07-28 18:00:00,Fried Rice,3,90,Walk-in,270,Dinner
+1010,2025-07-28 14:00:00,Rajma Chawal,1,110,Regular,110,Lunch
